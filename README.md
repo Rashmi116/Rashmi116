@@ -55,3 +55,4 @@ I am an Information Science Engineering Student <img src="https://media.giphy.co
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rashmi116&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi116&layout=compact&theme=vision-friendly-dark)](https://github.com/Rashmi116/github-readme-stats)
